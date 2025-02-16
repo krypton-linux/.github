@@ -4,8 +4,6 @@ Arch Linuxベースの微妙なLinuxディストロ。
 
 デスクトップはKDE Plasma。
 
-ほぼ一人で開発しています。
-
 更新頻度は激遅です。
 
 https://forms.gle/3EKux8LKe4P3ofh16
