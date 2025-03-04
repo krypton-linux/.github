@@ -1,5 +1,7 @@
 # Krypton Linux
 
+ーメンバーの皆さんへ。できればpeople欄から自分の表示をPublicにしてください。
+
 Arch LinuxをベースとしたLinuxディストロです。
 
 デスクトップはKDE Plasmaで更新頻度は激遅です。
