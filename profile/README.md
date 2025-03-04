@@ -1,10 +1,8 @@
-# 概要
+# Krypton Linux
 
-Arch Linuxベースの微妙なLinuxディストロ。
+Arch LinuxをベースとしたLinuxディストロです。
 
-デスクトップはKDE Plasma。
-
-更新頻度は激遅です。
+デスクトップはKDE Plasmaで更新頻度は激遅です。
 
 https://forms.gle/3EKux8LKe4P3ofh16
 
