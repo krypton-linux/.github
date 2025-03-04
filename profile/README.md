@@ -1,5 +1,7 @@
 # Krypton Linux
 
+<img src="https://raw.githubusercontent.com/krypton-linux/krypton-artworks/refs/heads/main/logo/logo.svg"></img>
+
 ーメンバーの皆さんへ。できればpeople欄から自分の表示をPublicにしてください。
 
 Arch LinuxをベースとしたLinuxディストロです。
