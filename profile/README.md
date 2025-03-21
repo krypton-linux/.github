@@ -8,7 +8,7 @@ Arch LinuxをベースとしたLinuxディストロです。
 
 https://krypton-linux.com
 
-ホームページは現在工事中です。
+ホームページはリニューアル中です。
 
 https://forms.gle/3EKux8LKe4P3ofh16
 
