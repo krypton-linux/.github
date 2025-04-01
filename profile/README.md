@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/krypton-linux/krypton-linux.com/refs/heads/main/logo.svg" height=128px width=auto></img>
+<img src="https://raw.githubusercontent.com/krypton-linux/krypton-linux.com/refs/heads/main/logo.svg" height=100px width=auto></img>
 
 ーメンバーの皆さんへ。できればpeople欄から自分のMembershipをPublicにしてください。
 
